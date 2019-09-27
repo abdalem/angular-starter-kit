@@ -5,10 +5,10 @@ Angular application starter kit including docker and workflow based on angular-c
 
 # Getting Started
 
-You have three ways to start the project:
+You have three ways to start the project (`npm install` before any of the case you choose):
 
 ## Without Docker
-Make sur you have Node, NPM and the Angular CLI installed globally. Then, you can run `npm install` and `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Make sur you have Node, NPM and the Angular CLI installed globally. Then, you can run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## With Docker
 Install docker (see the official docs) and docker-compose. Then, go on docker-compose.yml and uncomment:
