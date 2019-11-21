@@ -19,7 +19,7 @@ ports:
   - 100:4200
 ```
 
-run `docker-compose up` and navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+run `docker-compose up` and navigate to `http://localhost:100/`. The app will automatically reload if you change any of the source files.
 
 ## With Docker and Nginx reverse proxy
 Install docker (see the official docs) and docker-compose. Then, go on docker-compose.yml and uncomment:
